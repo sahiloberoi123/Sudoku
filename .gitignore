@@ -1,0 +1,6 @@
+# Ignore VS code settings
+/.vscode/
+# Ignore Virtual Environment
+/sudoku/
+# Ignore pycache
+__pycache__
